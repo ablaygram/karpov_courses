@@ -1,2 +1,3 @@
 # karpov_courses
-Repeating python scripts and ML with courses by Anatoly Karpov 
+## Repeating python scripts and ML with courses by Anatoly Karpov 
+
