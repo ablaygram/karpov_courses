@@ -8,3 +8,5 @@ Lesson 1 - Python Basics
 [Lesson 3](https://github.com/ablaygram/karpov_courses/tree/main/Lesson%203) - Advanced pandas and visualizing
 
 [Lesson 4](https://github.com/ablaygram/karpov_courses/tree/main/Lesson%204) - Working with dirty data
+
+[Lesson 5](https://github.com/ablaygram/karpov_courses/tree/main/Lesson%205) - Pivots and other analytics 
