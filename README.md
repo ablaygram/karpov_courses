@@ -10,3 +10,5 @@ Lesson 1 - Python Basics
 [Lesson 4](https://github.com/ablaygram/karpov_courses/tree/main/Lesson%204) - Working with dirty data
 
 [Lesson 5](https://github.com/ablaygram/karpov_courses/tree/main/Lesson%205) - Pivots and other analytics 
+
+[Lesson 6](https://github.com/ablaygram/karpov_courses/tree/main/Lesson%206) - Window functions and intercative graphics  
