@@ -12,3 +12,5 @@ Lesson 1 - Python Basics
 [Lesson 5](https://github.com/ablaygram/karpov_courses/tree/main/Lesson%205) - Pivots and other analytics 
 
 [Lesson 6](https://github.com/ablaygram/karpov_courses/tree/main/Lesson%206) - Window functions and intercative graphics  
+
+[Lesson 7](https://github.com/ablaygram/karpov_courses/tree/main/Lesson%207) - API  
