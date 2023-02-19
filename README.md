@@ -13,4 +13,4 @@ Lesson 1 - Python Basics
 
 [Lesson 6](https://github.com/ablaygram/karpov_courses/tree/main/Lesson%206) - Window functions and intercative graphics  
 
-[Lesson 7](https://github.com/ablaygram/karpov_courses/tree/main/Lesson%207) - API  
+[Lesson 7](https://github.com/ablaygram/karpov_courses/tree/main/Lesson%207) - Working with different APIs  
