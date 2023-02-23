@@ -1,2 +1,6 @@
 1.python
 2.git
+
+3.sql
+4.statistics 
+5.visualisation
